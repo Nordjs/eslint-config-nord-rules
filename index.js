@@ -26,7 +26,7 @@ module.exports = {
     "brace-style"             : 2,
     "spaced-comment"          : [2, "always", {"exceptions":["-","+"]}],
     "space-before-blocks"     : 2,
-    "no-implicit-coercin"     : 2,
+    "no-implicit-coercion"    : 2,
     "no-useless-call"         : 2,
     "prefer-reflect"          : 2,
     // ES6+ Rules
