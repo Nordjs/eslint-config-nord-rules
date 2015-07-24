@@ -1,4 +1,4 @@
-# NordJS eslint rules
+# Nord.js eslint rules
 
 *Requires eslint >= 1.0.0-rc-2*
 
